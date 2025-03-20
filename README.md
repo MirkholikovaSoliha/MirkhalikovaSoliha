@@ -4,7 +4,7 @@
 <h3 align="center">Developer from Uzbekistan</h3>
 
  <p align="center">
-   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
+   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> 
  </p>
 
 
